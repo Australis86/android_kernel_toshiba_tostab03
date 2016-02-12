@@ -30,10 +30,10 @@
 #ifdef 	IMMVIBESPIAPI
 #undef 	IMMVIBESPIAPI
 #endif
-#define 	IMMVIBESPIAPI static
+#define IMMVIBESPIAPI static
 
-#include <../../kernel/arch/arm/mach-tegra/nv/include/nvcommon.h>
-#include <../../kernel/arch/arm/mach-tegra/gpio-names.h>
+#include <../../../arch/arm/mach-tegra/nv/include/nvcommon.h>
+#include <../../../arch/arm/mach-tegra/gpio-names.h>
 #include <linux/module.h> 
 #include <linux/kernel.h>
 #include <linux/init.h> 
