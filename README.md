@@ -1,5 +1,7 @@
 # android_kernel_toshiba_tostab03
-OmniROM kernel files for the Toshiba AT100 THRiVE
+OmniROM kernel files for the Toshiba AT100 THRiVE.
+
+This is derived from the source provided by Toshiba for their ICS ROM (kernel v2.6.39.4) and is probably their kernel from Honeycomb patched for ICS. It will not build below arm-eabi-4.3.1 (provided as part of Google's Gingerbread/Honeycomb toolchain).
 
 
 # Linux Kernel Notes
